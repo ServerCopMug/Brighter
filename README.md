@@ -1,5 +1,6 @@
 # Brighter
 This mod will make your client-side lights much brighter. Keep in mind different vehicles can have different brightness settings. Below I have included some possible reasons why you don't get the same results as I do. 
+Support server: https://discord.gg/gKnfb8j
 
 <br>
 

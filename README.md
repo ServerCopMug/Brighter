@@ -5,6 +5,8 @@ This mod will make your client-side lights much brighter. Keep in mind different
 
  [https://imgur.com/gallery/SglPHqG](https://imgur.com/gallery/SglPHqG)
  
+ <br>
+ 
  **If you don't experience the same results try these:**
 
 * Make your PostFX settings higher
@@ -13,10 +15,14 @@ This mod will make your client-side lights much brighter. Keep in mind different
 
 * Try a different server. Sometimes servers can have visual packs installed or other resources that will mess with yours. 
 
+<br>
+
 <h3>Rules</h3>
 
 1. NEVER EVER EVER re-upload scripts without permission.
 2. Always give credit. 
+
+<br>
 
 <h3>How to install</h3>
 

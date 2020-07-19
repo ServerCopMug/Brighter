@@ -1,0 +1,15 @@
+-------------------------------
+-------------------------------
+--------ServerCop#0392---------
+-------------------------------
+-------------------------------
+Support server: https://discord.gg/gKnfb8j
+
+
+How to install
+
+1. Download the latest file and extract it
+2. In your windows search bar below type %localappdata% and press enter.
+3. Navigate to your FiveM folder and open it.
+4. Follow this path: FiveM.app\citizen\common\data
+5. Drag and drop the visualsettings.dat file into the folder, if you have to replace a file that is fine.

@@ -1,6 +1,5 @@
-# VisualV 1.0.330
-# Edited by eltece as part of Clean N' Natural
-# DO NOT DISTRIBUTE WITHOUT PERMISSION OF THE CREATORS!
+# Brighter+
+# ServerCop#0392
 #
 # stores intial values for configuration of in game elements
 #Name	Value
@@ -969,14 +968,14 @@ seeThrough.ColorVisibleHot.red	0.95
 seeThrough.ColorVisibleHot.green	0.99
 seeThrough.ColorVisibleHot.blue	1
 
-# Tonemapping								# CONTRAST
-Tonemapping.bright.filmic.A			0.3		# http://imgur.com/wFJeGJZ
-Tonemapping.bright.filmic.B			0.23	# http://imgur.com/BBN5vUK
-Tonemapping.bright.filmic.C			0.1		# http://imgur.com/U5BCcM0
-Tonemapping.bright.filmic.D			0.2		# http://imgur.com/EzBJgA4
-Tonemapping.bright.filmic.E			0.01	# http://imgur.com/2gUflKy
-Tonemapping.bright.filmic.F			0.3		# http://imgur.com/H3XEKPJ
-Tonemapping.bright.filmic.W			4.0		# http://imgur.com/43Rtdnl
+# Tonemapping								
+Tonemapping.bright.filmic.A			0.3		
+Tonemapping.bright.filmic.B			0.23	
+Tonemapping.bright.filmic.C			0.1		
+Tonemapping.bright.filmic.D			0.2		
+Tonemapping.bright.filmic.E			0.01
+Tonemapping.bright.filmic.F			0.3	
+Tonemapping.bright.filmic.W			4.0		
 Tonemapping.bright.filmic.exposure	-0.5
 
 Tonemapping.dark.filmic.A			0.3
